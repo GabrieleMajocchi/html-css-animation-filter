@@ -121,7 +121,6 @@
 
 .ex-9-img:hover{
     scale: 150%;
-    margin: 0;
     border-radius: 5%;
     filter: sepia(70%);
     transition: 2s;
